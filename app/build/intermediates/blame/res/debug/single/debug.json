@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/StudioProjects/gdk-waveform-sample4/app/build/intermediates/res/merged/debug/xml_trigger_show_me_a_demo.xml.flat",
+        "source": "/root/StudioProjects/gdk-waveform-sample4/app/src/main/res/xml/trigger_show_me_a_demo.xml"
+    },
+    {
+        "merged": "/root/StudioProjects/gdk-waveform-sample4/app/build/intermediates/res/merged/debug/layout_layout_waveform.xml.flat",
+        "source": "/root/StudioProjects/gdk-waveform-sample4/app/src/main/res/layout/layout_waveform.xml"
+    }
+]
